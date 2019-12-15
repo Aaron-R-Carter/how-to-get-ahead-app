@@ -75,5 +75,29 @@ Here is the pseudocode brainstorm for this app.
 
                         ~ if trouble, use greater than less than sentence such as "I feel more miserable when I _____ than when I _____.
 
+    D. Step 4: 
+
+            Set Up Your Ambition Map and Set the Context for Your Goal
+
+                - Use your top 12 senteces to guide your goal setting and make your goal compelling. You will need a 3 column table.
+
+                table example columns:
+                [Via Negativa ---- GOAL ------ Via Positva]
+
+                - Take your six via negativa, then via positiva sentences and rank-order them. 
+
+                (for any goal you consider, does it meet your top sentences in what you want to avoid & achieve?)
+
+
+                            * side from p.31 - Doing Goal Research \
+                                (research phase of goals, list & columns)
+                                (download an email script for goal research at zakslayback.com/research)
+
+    E. Step 5:
+
+            Refine Your Career Goals with Definite Optimism
+
+
+
 
 
