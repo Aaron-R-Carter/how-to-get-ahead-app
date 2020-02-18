@@ -97,6 +97,62 @@ Here is the pseudocode brainstorm for this app.
 
             Refine Your Career Goals with Definite Optimism
 
+            Is your goal SMART?
+
+            Specific
+            Measurable
+            Ambitious
+            Reasonable
+            Time-bound
+
+            if you answered no for any of the questions above, reformulate your goal until it is SMART. This helps make your goal definite and gives you a clear path to work backwards from in the achievment of your goal.
+
+    F.  Part 6: Work Backwards from the Achievement of Your Goal          to Develop Milestones
+            
+            Once you set a clear goal that meets SMART metrics, work backwards in time from its achievement. 
+            
+            What has to happen immediately before you achieve the goal? Before that? Before that? 
+            
+            Keep filling in this process until you get to an immediately-actionable item:
+
+            In order to ___________________________________, first I must__________________________....
+
+            In order to __________________________, first I must__________________________…
+
+            In order to ___________________________________, first I must__________________________....
+
+            In order to __________________________, first I must__________________________…
+
+            In order to ___________________________________, first I must__________________________....
+
+            In order to __________________________, first I must__________________________…
+
+            In order to ___________________________________, first I must__________________________....
+
+            In order to __________________________, first I must__________________________…
+
+            In order to ___________________________________, first I must__________________________....
+
+            In order to __________________________, first I must__________________________…
+
+            In order to ___________________________________, first I must__________________________....
+
+            In order to __________________________, first I must__________________________…
+
+            In order to ___________________________________, first I must__________________________....
+
+            In order to __________________________, first I must__________________________…
+
+            In order to ___________________________________, first I must__________________________....
+
+            In order to __________________________, first I must__________________________…
+            
+            Once you arrive at an immediately-actionable item, like “I have to call my banker,” or “I have to put together my newest pitch deck,” schedule that item in right now.
+
+
+
+
+
 
 
 
